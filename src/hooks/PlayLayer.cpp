@@ -25,7 +25,7 @@ int HookPlayLayer::getCurrentBoostState() {
     if(speed == 0.9f) return 1;
     if(speed == 1.1f) return 2;
     if(speed == 1.3f) return 3;
-    if(speed == 1.6f) return 4;
+    if(speed == 2.6f) return 4;
 
     return -1;
 }
