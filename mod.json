@@ -1,5 +1,5 @@
 {
-	"geode": "5.0.0-beta.1",
+	"geode": "5.11.2",
 	"gd": {
 		"win": "2.2081",
 		"android": "2.2081",
@@ -12,12 +12,12 @@
 		"source": "https://github.com/capeling/gamemode-switcher",
 		"homepage": "https://twitter.com/capelingg"
 	},
-	"version": "v1.0.10",
+	"version": "v1.0.11",
 	"developer": "capeling",
 	"description": "Geometry Dash player editor.",
 	"dependencies": {
 		"geode.node-ids": {
-			"version": ">=1.18.0",
+			"version": ">=1.23.3",
 			"importance": "required"
 		}
 	},
