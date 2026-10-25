@@ -84,7 +84,7 @@ void HookPlayLayer::performActionOnPlayer(Action action) {
         }
 
         case Speed0p5x: {
-            m_player1->m_playerSpeed = 0.7f;
+            m_player1->m_playerSpeed = 0.1f; // 0.7f
             break;
         }
         case Speed1x: {
